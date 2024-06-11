@@ -1,0 +1,139 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\bruno.vieira\\OneDrive - MEDICAMENTAL\\\u00C1rea de Trabalho\\Arquivos\\Vs\\API\\WebAPI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{95F24A36-3734-459A-814D-9604A929FD21}|WebAPI\\WebAPI.csproj|c:\\users\\bruno.vieira\\onedrive - medicamental\\\u00E1rea de trabalho\\arquivos\\vs\\api\\webapi\\webapi\\controllers\\categoriacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{95F24A36-3734-459A-814D-9604A929FD21}|WebAPI\\WebAPI.csproj|solutionrelative:webapi\\controllers\\categoriacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{95F24A36-3734-459A-814D-9604A929FD21}|WebAPI\\WebAPI.csproj|c:\\users\\bruno.vieira\\onedrive - medicamental\\\u00E1rea de trabalho\\arquivos\\vs\\api\\webapi\\webapi\\controllers\\produtoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{95F24A36-3734-459A-814D-9604A929FD21}|WebAPI\\WebAPI.csproj|solutionrelative:webapi\\controllers\\produtoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{95F24A36-3734-459A-814D-9604A929FD21}|WebAPI\\WebAPI.csproj|c:\\users\\bruno.vieira\\onedrive - medicamental\\\u00E1rea de trabalho\\arquivos\\vs\\api\\webapi\\webapi\\model\\produto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{95F24A36-3734-459A-814D-9604A929FD21}|WebAPI\\WebAPI.csproj|solutionrelative:webapi\\model\\produto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{95F24A36-3734-459A-814D-9604A929FD21}|WebAPI\\WebAPI.csproj|c:\\users\\bruno.vieira\\onedrive - medicamental\\\u00E1rea de trabalho\\arquivos\\vs\\api\\webapi\\webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{95F24A36-3734-459A-814D-9604A929FD21}|WebAPI\\WebAPI.csproj|solutionrelative:webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{95F24A36-3734-459A-814D-9604A929FD21}|WebAPI\\WebAPI.csproj|c:\\users\\bruno.vieira\\onedrive - medicamental\\\u00E1rea de trabalho\\arquivos\\vs\\api\\webapi\\webapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{95F24A36-3734-459A-814D-9604A929FD21}|WebAPI\\WebAPI.csproj|solutionrelative:webapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\bruno.vieira\\OneDrive - MEDICAMENTAL\\\u00C1rea de Trabalho\\Arquivos\\Vs\\API\\WebAPI\\WebAPI\\Migrations\\20240610171844_intnulo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:WebAPI\\Migrations\\20240610171844_intnulo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\bruno.vieira\\OneDrive - MEDICAMENTAL\\\u00C1rea de Trabalho\\Arquivos\\Vs\\API\\WebAPI\\WebAPI\\Migrations\\20240610150926_notrampo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:WebAPI\\Migrations\\20240610150926_notrampo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\bruno.vieira\\OneDrive - MEDICAMENTAL\\\u00C1rea de Trabalho\\Arquivos\\Vs\\API\\WebAPI\\WebAPI\\Program.cs",
+              "RelativeDocumentMoniker": "WebAPI\\Program.cs",
+              "ToolTip": "C:\\Users\\bruno.vieira\\OneDrive - MEDICAMENTAL\\\u00C1rea de Trabalho\\Arquivos\\Vs\\API\\WebAPI\\WebAPI\\Program.cs",
+              "RelativeToolTip": "WebAPI\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-10T17:33:28.859Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Produto.cs",
+              "DocumentMoniker": "C:\\Users\\bruno.vieira\\OneDrive - MEDICAMENTAL\\\u00C1rea de Trabalho\\Arquivos\\Vs\\API\\WebAPI\\WebAPI\\Model\\Produto.cs",
+              "RelativeDocumentMoniker": "WebAPI\\Model\\Produto.cs",
+              "ToolTip": "C:\\Users\\bruno.vieira\\OneDrive - MEDICAMENTAL\\\u00C1rea de Trabalho\\Arquivos\\Vs\\API\\WebAPI\\WebAPI\\Model\\Produto.cs",
+              "RelativeToolTip": "WebAPI\\Model\\Produto.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAQwAgAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-10T17:17:04.048Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "20240610150926_notrampo.cs",
+              "DocumentMoniker": "C:\\Users\\bruno.vieira\\OneDrive - MEDICAMENTAL\\\u00C1rea de Trabalho\\Arquivos\\Vs\\API\\WebAPI\\WebAPI\\Migrations\\20240610150926_notrampo.cs",
+              "RelativeDocumentMoniker": "WebAPI\\Migrations\\20240610150926_notrampo.cs",
+              "ToolTip": "C:\\Users\\bruno.vieira\\OneDrive - MEDICAMENTAL\\\u00C1rea de Trabalho\\Arquivos\\Vs\\API\\WebAPI\\WebAPI\\Migrations\\20240610150926_notrampo.cs",
+              "RelativeToolTip": "WebAPI\\Migrations\\20240610150926_notrampo.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-10T15:09:26.336Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\bruno.vieira\\OneDrive - MEDICAMENTAL\\\u00C1rea de Trabalho\\Arquivos\\Vs\\API\\WebAPI\\WebAPI\\appsettings.json",
+              "RelativeDocumentMoniker": "WebAPI\\appsettings.json",
+              "ToolTip": "C:\\Users\\bruno.vieira\\OneDrive - MEDICAMENTAL\\\u00C1rea de Trabalho\\Arquivos\\Vs\\API\\WebAPI\\WebAPI\\appsettings.json",
+              "RelativeToolTip": "WebAPI\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-06-10T15:08:36.948Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ProdutosController.cs",
+              "DocumentMoniker": "C:\\Users\\bruno.vieira\\OneDrive - MEDICAMENTAL\\\u00C1rea de Trabalho\\Arquivos\\Vs\\API\\WebAPI\\WebAPI\\Controllers\\ProdutosController.cs",
+              "RelativeDocumentMoniker": "WebAPI\\Controllers\\ProdutosController.cs",
+              "ToolTip": "C:\\Users\\bruno.vieira\\OneDrive - MEDICAMENTAL\\\u00C1rea de Trabalho\\Arquivos\\Vs\\API\\WebAPI\\WebAPI\\Controllers\\ProdutosController.cs",
+              "RelativeToolTip": "WebAPI\\Controllers\\ProdutosController.cs",
+              "ViewState": "AQIAAEcAAAAAAAAAAAAqwFcAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-10T15:04:41.06Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CategoriaController.cs",
+              "DocumentMoniker": "C:\\Users\\bruno.vieira\\OneDrive - MEDICAMENTAL\\\u00C1rea de Trabalho\\Arquivos\\Vs\\API\\WebAPI\\WebAPI\\Controllers\\CategoriaController.cs",
+              "RelativeDocumentMoniker": "WebAPI\\Controllers\\CategoriaController.cs",
+              "ToolTip": "C:\\Users\\bruno.vieira\\OneDrive - MEDICAMENTAL\\\u00C1rea de Trabalho\\Arquivos\\Vs\\API\\WebAPI\\WebAPI\\Controllers\\CategoriaController.cs",
+              "RelativeToolTip": "WebAPI\\Controllers\\CategoriaController.cs",
+              "ViewState": "AQIAACYAAAAAAAAAAAAwwCQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-10T15:04:41.134Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "20240610171844_intnulo.cs",
+              "DocumentMoniker": "C:\\Users\\bruno.vieira\\OneDrive - MEDICAMENTAL\\\u00C1rea de Trabalho\\Arquivos\\Vs\\API\\WebAPI\\WebAPI\\Migrations\\20240610171844_intnulo.cs",
+              "RelativeDocumentMoniker": "WebAPI\\Migrations\\20240610171844_intnulo.cs",
+              "ToolTip": "C:\\Users\\bruno.vieira\\OneDrive - MEDICAMENTAL\\\u00C1rea de Trabalho\\Arquivos\\Vs\\API\\WebAPI\\WebAPI\\Migrations\\20240610171844_intnulo.cs",
+              "RelativeToolTip": "WebAPI\\Migrations\\20240610171844_intnulo.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-10T17:18:44.375Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
